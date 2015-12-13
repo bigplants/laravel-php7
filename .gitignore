@@ -6,3 +6,6 @@ Homestead.json
 /.vagrant
 /.idea
 
+# ide helper for laravel.
+_ide_helper.php
+.phpstorm.meta.php
