@@ -9,3 +9,6 @@ Homestead.json
 # ide helper for laravel.
 _ide_helper.php
 .phpstorm.meta.php
+
+# composer
+composer.lock
